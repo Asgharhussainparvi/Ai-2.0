@@ -1,0 +1,24 @@
+Employee ID: 10001
+Name: Alice Johnson
+Department: Engineering
+Salary: 75000
+
+Employee ID: 10002
+Name: Bob Smith
+Department: Marketing
+Salary: 62000
+
+Employee ID: 10003
+Name: Charlie Brown
+Department: Sales
+Salary: 58000
+
+Employee ID: 10004
+Name: Diana Adams
+Department: HR
+Salary: 67000
+
+Employee ID: 10005
+Name: Ethan Carter
+Department: IT
+Salary: 80000

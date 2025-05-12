@@ -1,0 +1,37 @@
+Student Log:
+Name: John Doe, Email: john.doe@example.com, Phone: +1-555-1234, Grade: A
+Name: Jane Smith, Email: jane.smith@example.com, Phone: +1-555-5678, Grade: B
+Name: Alan Brown, Email: alan.brown@example.com, Phone: +1-555-8765, Grade: C
+Name: Emily Davis, Email: emily.davis@example.com, Phone: +1-555-2345, Grade: A
+Name: Michael Johnson, Email: michael.johnson@example.com, Phone: +1-555-6789, Grade: B
+Name: Sarah Wilson, Email: sarah.wilson@example.com, Phone: +1-555-3456, Grade: A
+Name: Chris Miller, Email: chris.miller@example.com, Phone: +1-555-7890, Grade: C
+Name: Jessica Taylor, Email: jessica.taylor@example.com, Phone: +1-555-4567, Grade: B
+Name: Daniel Moore, Email: daniel.moore@example.com, Phone: +1-555-8901, Grade: A
+Name: Laura Anderson, Email: laura.anderson@example.com, Phone: +1-555-5670, Grade: C
+Name: Kevin Thomas, Email: kevin.thomas@example.com, Phone: +1-555-2340, Grade: A
+Name: Megan Jackson, Email: megan.jackson@example.com, Phone: +1-555-6780, Grade: B
+Name: Ryan White, Email: ryan.white@example.com, Phone: +1-555-3450, Grade: C
+Name: Olivia Harris, Email: olivia.harris@example.com, Phone: +1-555-7891, Grade: A
+Name: Ethan Martin, Email: ethan.martin@example.com, Phone: +1-555-4561, Grade: B
+Name: Chloe Thompson, Email: chloe.thompson@example.com, Phone: +1-555-8902, Grade: C
+Name: Lucas Garcia, Email: lucas.garcia@example.com, Phone: +1-555-5671, Grade: A
+Name: Natalie Martinez, Email: natalie.martinez@example.com, Phone: +1-555-2341, Grade: B
+Name: Noah Robinson, Email: noah.robinson@example.com, Phone: +1-555-6781, Grade: C
+Name: Grace Clark, Email: grace.clark@example.com, Phone: +1-555-3451, Grade: A
+
+Factory Log:
+Date: 2025-01-23, Machine ID: M123, Issue: Overheated
+Date: 2025-01-23, Machine ID: M456, Issue: Maintenance Required
+Date: 2025-01-24, Machine ID: M789, Issue: Operating Normally
+Date: 2025-01-24, Machine ID: M987, Issue: Electrical Fault
+Date: 2025-01-25, Machine ID: M654, Issue: Low Pressure
+Date: 2025-01-25, Machine ID: M321, Issue: Sensor Error
+Date: 2025-01-26, Machine ID: M852, Issue: Overheated
+Date: 2025-01-26, Machine ID: M741, Issue: Maintenance Required
+Date: 2025-01-27, Machine ID: M963, Issue: Operating Normally
+Date: 2025-01-27, Machine ID: M159, Issue: Calibration Error
+Date: 2025-01-28, Machine ID: M753, Issue: High Temperature
+Date: 2025-01-28, Machine ID: M357, Issue: Low Voltage
+Date: 2025-01-29, Machine ID: M258, Issue: Software Update Required
+Date: 2025-01-29, Machine ID: M468, Issue: Oil Leak
